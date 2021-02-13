@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @josuegalvez118
+- 👀 I’m interested in figuring out how all this code writing can be benificial for cybersecurity, and protection against radiological, neurological, frequency cerebral interception, deriving possibly from telepathy development over cell phone tower radiation exposure. 
+Just to make it simple im constantly being hacked and feel digitalized space is receiding more than it manifesting like before i would like to learn how to prevent it since it affected my whole ambience. I feel like learning more about how to control BCI expiremental exposure.
+Its affected me pretty well since i know institutionalized is pretty much underated in comparison. Im first generation American, ethnic backround is mexican, so im pretty much trying to figure out how to establish myself and detect the heavy interference and sue. Its been pretty crazy her in San Fernando CA and Sylmar and just want to try, it doesnt hurt. Possibly sue city wise. Nervous system is always being affected by the variation of this type of exposure and im always being affected by bended ligth, atmospheric pressure alteratin, through electro magnetism and electrical radiation being utilized the wrong way. Im not a idiot just wamnt some security, peace of mind, or money for lost time. im just unresourced. thank you 
+josuegalvez118/josuegalvez118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
