@@ -1,0 +1,48 @@
+example my mac had some unknown people on it with BCIS from Broadcom as a local host i hadnt seen ever i just made a partition since my old profile 
+crashed and i downloaded a update hardly
+i started of with step one "rmiregistry' and saw a abnormality 
+rmiregistry
+
+
+netstat -anvp tcp | awk 'NR<3 || /LISTEN/'
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)     rhiwat shiwat    pid   epid  state    options
+tcp46      0      0  *.62981                *.*                    LISTEN      131072 131072  34548      0 0x0100 0x00000006
+…
+
+sudo lsof -PiTCP -sTCP:LISTENnetstat -anvp tcp | awk 'NR<3 || /LISTEN/'
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)     rhiwat shiwat    pid   epid  state    options
+tcp46      0      0  *.62981                *.*                    LISTEN      131072 131072  34548      0 0x0100 0x00000006
+…
+rmiregistry
+sudo lsof -PiTCP -sTCP:LISTENrmiregistry
+
+
+
+decided to register this local host since they were constant persistent and year to year always there 1997 
+1995 IBM sold their computer interface and desktops to the US military. So BCI"s had to move along to other causes like MAC and WINDOWS but BROADCOM BRIGTHSIDE CA 
+is the name of these haunting individuals, and what i mean to say is that they are always developing new ways to interfere with your own sub conscious
+not a pretty thing when you have everything ahead of you to thrive in a career field of choice and sanity is amongst you. i hope my bit of code can help you 
+disconnect those who dont have permission to acess your mind and body in full. i just began so maybe some more little things migth be 
+needed look into it esc esc and press Y like 15 times youll see a list of commands
+
+
+
+
+rmiregistry [*.62981] [*.*]
+rmiregistry [*.62981] [*.*]
+Procedure $USERBCI
+Procedure $USERBCI
+chown Procedure $USERBCI
+chown Procedure $USERBCI
+Return Codes
+Return Codes
+JCL Return Codes
+JCL Return Codes
+BCI Command Exit
+BCI Command Exit
+dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
+dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
+
