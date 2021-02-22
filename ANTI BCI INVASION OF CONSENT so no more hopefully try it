@@ -1,7 +1,12 @@
-example my mac had some unknown people on it with BCIS from Broadcom as a local host i hadnt seen ever i just made a partition since my old profile 
-crashed and i downloaded a update hardly
+each is a command so not to be put all at once
+
 i started of with step one "rmiregistry' and saw a abnormality 
-rmiregistry
+
+sudo rmiregistry
+
+
+
+this was my out=come not to be typed inVVVV
 
 
 netstat -anvp tcp | awk 'NR<3 || /LISTEN/'
@@ -18,31 +23,30 @@ tcp46      0      0  *.62981                *.*                    LISTEN      1
 …
 rmiregistry
 sudo lsof -PiTCP -sTCP:LISTENrmiregistry
+this isnt to type in above ^^^
 
 
+these are the seperate commands to type in 
 
-decided to register this local host since they were constant persistent and year to year always there 1997 
-1995 IBM sold their computer interface and desktops to the US military. So BCI"s had to move along to other causes like MAC and WINDOWS but BROADCOM BRIGTHSIDE CA 
-is the name of these haunting individuals, and what i mean to say is that they are always developing new ways to interfere with your own sub conscious
-not a pretty thing when you have everything ahead of you to thrive in a career field of choice and sanity is amongst you. i hope my bit of code can help you 
-disconnect those who dont have permission to acess your mind and body in full. i just began so maybe some more little things migth be 
-needed look into it esc esc and press Y like 15 times youll see a list of commands
-
-
-
+sudo dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
 
 rmiregistry [*.62981] [*.*]
-rmiregistry [*.62981] [*.*]
+
 Procedure $USERBCI
-Procedure $USERBCI
+
 chown Procedure $USERBCI
-chown Procedure $USERBCI
+
 Return Codes
+
+chown Procedure brigthside$
+
 Return Codes
+
 JCL Return Codes
-JCL Return Codes
-BCI Command Exit
-BCI Command Exit
-dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
-dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
+
+BCI command exit
+
+chown <your user name$> back to yourself so that the root access was only made different on their ownership when it was momentarily
+so that they could never do it again unless they change their local 
+
 
