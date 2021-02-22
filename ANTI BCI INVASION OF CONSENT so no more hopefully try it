@@ -2,7 +2,7 @@ each is a command so not to be put all at once
 
 i started of with step one "rmiregistry' and saw a abnormality 
 
-sudo rmiregistry
+rmiregistry
 
 
 
@@ -28,7 +28,7 @@ this isnt to type in above ^^^
 
 these are the seperate commands to type in 
 
-sudo dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
+dsenableroot [-d] [-u brigthside$] [-u USERBCI$] 
 
 rmiregistry [*.62981] [*.*]
 
