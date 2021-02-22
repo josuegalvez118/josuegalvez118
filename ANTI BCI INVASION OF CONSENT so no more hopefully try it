@@ -6,7 +6,7 @@ sudo rmiregistry
 
 
 
-this was my out=come not to be typed inVVVV
+this was my out=come not to be typed inVVVV   GO TO LINE 29 this was for viewing purposes
 
 
 netstat -anvp tcp | awk 'NR<3 || /LISTEN/'
